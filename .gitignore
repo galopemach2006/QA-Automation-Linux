@@ -1,0 +1,21 @@
+.vscode/
+Python_Testing/
+lib/
+QA_Roadmap
+Selenium Study Guide for QA
+/allure-results/
+/allure-report/
+/.cache/
+/.config/
+/.landscape/
+/.local/
+/.npm/
+/.test-results/
+.bash_history
+.bashrc
+.bash_logout
+.gitconfig
+.motd_shown
+.profile
+
+
