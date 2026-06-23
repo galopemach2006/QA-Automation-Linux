@@ -17,9 +17,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - run: npm ci
-      - run: npx playwright install --with-deps
-      - run: npx playwright test
+      - run: sudo npm ci
+      - run: sudo npx playwright install --with-deps
+      - run: sudo npx playwright test
       - uses: actions/upload-artifact@v4
         if: failure() 
         with:

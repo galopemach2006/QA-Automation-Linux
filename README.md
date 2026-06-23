@@ -1,1 +1,1 @@
-To practice my automation skills
+To practice and improve my automation skills
