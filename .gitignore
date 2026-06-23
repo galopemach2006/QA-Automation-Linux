@@ -12,6 +12,7 @@ Selenium Study Guide for QA
 /.landscape/
 /.local/
 /.npm/
+/.vscode-server/
 .bash_history
 .bash_logout
 .bashrc
