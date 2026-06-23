@@ -1,7 +1,9 @@
+#Removed To Github
+
 .vscode/
-Python_Testing/
+Python Testing/
 lib/
-QA_Roadmap
+QA Roadmap
 Selenium Study Guide for QA
 /allure-results/
 /allure-report/
@@ -10,12 +12,10 @@ Selenium Study Guide for QA
 /.landscape/
 /.local/
 /.npm/
-/.test-results/
 .bash_history
-.bashrc
 .bash_logout
+.bashrc
 .gitconfig
 .motd_shown
 .profile
-
 
